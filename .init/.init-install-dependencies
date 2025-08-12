@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/weather-now-156046/weather_forecast_android_frontend"
+}
