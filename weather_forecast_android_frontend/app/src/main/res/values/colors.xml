@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors as specified -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorSecondary">#1976D2</color>
+    <color name="colorAccent">#FFEB3B</color>
+    
+    <!-- Light theme colors -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#F5F5F5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnAccent">#000000</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorOnSurface">#424242</color>
+    
+    <!-- Weather specific colors -->
+    <color name="sunny">#FFC107</color>
+    <color name="cloudy">#9E9E9E</color>
+    <color name="rainy">#03A9F4</color>
+    <color name="snowy">#E1F5FE</color>
+    <color name="stormy">#455A64</color>
+    
+    <!-- Status colors -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="error">#F44336</color>
+</resources>
